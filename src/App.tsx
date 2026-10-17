@@ -12,7 +12,6 @@ import {
   Layers as LayersIcon, 
   ArrowUpRight, 
   Compass, 
-  ChevronRight,
   Activity
 } from 'lucide-react';
 
